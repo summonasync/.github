@@ -2,8 +2,8 @@
 
 # One dev. A swarm of agents. Nothing leaves the machine.
 
-Local-first .NET tooling for developers who run an AI-agent crew from one
-laptop. Download one binary, point it at your repo, summon the swarm.
+Local-first, Linux-first .NET tooling for developers who run an AI-agent crew
+from one laptop. Download one binary, point it at your repo, summon the swarm.
 No cloud, no API keys, no Docker quest.
 
 ## The kit
@@ -49,8 +49,10 @@ Watch this org. The repos show up when the circle is drawn.
 - **Local means local.** Loopback HTTP, files on your disk, no accounts, no
   telemetry — and therefore no team features and no hosted version of your
   memory.
-- **.NET.** One self-contained binary, no runtime install, no node_modules
-  archaeology. The trade-off is honest: you are on Microsoft's runtime.
+- **.NET, Linux first.** One self-contained binary, no runtime install, no
+  node_modules archaeology. Ubuntu is the first-class citizen — it is where
+  these binaries are built and daily-driven. Windows rides along. The
+  trade-off is honest: the runtime is Microsoft's.
 - **No SaaS.** No team tier, no enterprise offering, no "free plan" that
   becomes a paid plan. If that ever changes, this section gets edited and the
   edit gets logged.
