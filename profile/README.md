@@ -52,7 +52,7 @@ Watch this org. The repos show up when the circle is drawn.
 - **.NET, Linux first.** One self-contained binary, no runtime install, no
   node_modules archaeology. Ubuntu is the first-class citizen — it is where
   these binaries are built and daily-driven. Windows rides along. The
-  trade-off is honest: the runtime is Microsoft's.
+  runtime is Microsoft's. The OS is not.
 - **No SaaS.** No team tier, no enterprise offering, no "free plan" that
   becomes a paid plan. If that ever changes, this section gets edited and the
   edit gets logged.
