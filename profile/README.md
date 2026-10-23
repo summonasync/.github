@@ -1,4 +1,17 @@
-<p align="center"><code>await SummonAsync();</code></p>
+```
+          {  ·  ·  ·  ·  ·  ·  ·  }
+       · ·          ( · )          · ·
+      ·                               ·
+     ·                                 ·
+     ·                _                ·
+   [;]                ;               {:·:}
+     ·                                 ·
+      ·                               ·
+       · ·           [ ]           · ·
+          {  ·  ·  ·  ·  ·  ·  ·  }
+
+            await SummonAsync();
+```
 
 # One dev. A swarm of agents. Nothing leaves the machine.
 
