@@ -1,16 +1,13 @@
 ```
-          {  ·  ·  ·  ·  ·  ·  ·  }
-       · ·          ( · )          · ·
-      ·                               ·
-     ·                                 ·
-     ·                _                ·
-   [;]                ;               {:·:}
-     ·                                 ·
-      ·                               ·
-       · ·           [ ]           · ·
-          {  ·  ·  ·  ·  ·  ·  ·  }
-
-            await SummonAsync();
+           .--··(·)··--.
+        .'               '.
+      /                     \
+     ;           _           ;
+[;]  ; await SummonAsync();  ;  {:·:}
+     ;                       ;
+      \                     /
+        '.               .'
+           '--··[ ]··--.'
 ```
 
 # One dev. A swarm of agents. Nothing leaves the machine.
