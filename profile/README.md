@@ -22,7 +22,7 @@
 
 # One dev. A swarm of agents. Nothing leaves the machine.
 
-Local-first, Linux-first .NET tooling for developers who run an AI-agent crew
+Local-first, Linux-first tooling for developers who run an AI-agent crew
 from one laptop. Download one binary, point it at your repo, summon the swarm.
 No cloud, no API keys, no Docker quest.
 
@@ -35,7 +35,7 @@ Four binaries. One summoner. Zero cloud.
 | **Overmind** | Project intelligence — the planning board, decisions, gates and skill kits of one project. | runs daily · publishing soon |
 | **Grimoire** | Global agents knowledge — one shared memory. Every agent. Every project. | v0.1.0 · publishing soon |
 | **Squeezr** | Context compression — hybrid exact + semantic index, maximum meaning per token. | v1.0.9 · publishing soon |
-| **Mindlash Studio** | Multi-agent workspace — launch, watch, gate and kill agent sessions. | coming soon |
+| **Summonasync Studio** | Multi-agent workspace — launch, watch, gate and kill agent sessions. | coming soon · Rust rewrite |
 
 ## The story
 
@@ -79,4 +79,4 @@ Watch this org. The repos show up when the circle is drawn.
 
 ---
 
-Overmind · Grimoire · Squeezr · Mindlash Studio
+Overmind · Grimoire · Squeezr · Summonasync Studio
